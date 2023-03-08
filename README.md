@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @zjj19970517
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, this is Meils.ZJJ home.
 
-<!---
-zjj19970517/zjj19970517 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Introduction -->
+
+- :school: Student of TUST. Computer Science and Technology.
+- :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.
+- :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [@QQ](mailto:1392372716@qq.com).
+- :house: [𝑱𝒖𝒆𝒋𝒊𝒏](https://juejin.cn/user/96412752949326)
+
+<!-- Github Stats -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjj19970517&hide=contribs,prs)
